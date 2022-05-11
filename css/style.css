@@ -74,7 +74,6 @@ p {
 }
 
 /* Links */
-
 a {
   text-decoration: none;
 }
@@ -105,7 +104,6 @@ a {
 }
 
 /* Badges */
-
 .badge {
   border-radius: 20px;
   font-size: 2rem;
@@ -167,7 +165,6 @@ a {
 }
 
 /* Icons */
-
 .icon {
   width: 40px;
   height: 40px;
@@ -316,7 +313,6 @@ a {
 }
 
 /* Cards */
-
 .card {
   border-radius: 7px;
   box-shadow: 0 0 20px 10px #f3f3f3;
@@ -425,7 +421,6 @@ a {
 
 
 /* Media Objects */
-
 .media {
   display: flex;
   margin-bottom: 4rem;
@@ -559,7 +554,7 @@ a {
 
 /* Callouts */
 .callout {
-  padding: 4rem;
+  padding: 3rem;
   border-radius: 5px;
 }
 
@@ -599,7 +594,6 @@ a {
 }
 
 /* Collapsibles */
-
 .collapsible__header {
   display: flex;
   justify-content: space-between;
@@ -911,4 +905,10 @@ a {
   .footer__heading {
     font-size: 1.6rem;
   }
+}
+
+/* Signup Callout  */
+
+.callout-signup {
+  transform: translateY(5rem);
 }

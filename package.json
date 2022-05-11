@@ -1,0 +1,23 @@
+{
+  "name": "danielfy",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel008/Danielfy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel008/Danielfy/issues"
+  },
+  "homepage": "https://github.com/daniel008/Danielfy#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
